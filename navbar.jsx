@@ -7,7 +7,7 @@ export default function Navbar({ cartCount, onSearch }) {
   return (
     <nav className="navbar">
       <div className="nav-logo">
-        <img src="./assets/ecommerce.png" alt="logo" className="nav-img" />
+        <img src="./assets/ecommerce.png" alt="" className="nav-img" />
       </div>
 
       <div className="nav-links">
